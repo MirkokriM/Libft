@@ -17,7 +17,7 @@ Libft is a library that contains a collection of custom C functions developed as
 - Compatible with multiple platforms, including macOS, Linux, and Windows.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/MirkokriM/libft.git`
+1. Clone the repository: `git clone https://github.com/MirkokriM/Libft.git`
 2. Change into the libft directory: `cd libft`
 3. Compile the library: `make`
 4. Link the library to your project:
